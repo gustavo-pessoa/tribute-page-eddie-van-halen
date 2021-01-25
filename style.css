@@ -1,0 +1,67 @@
+#main {
+    width: 99%;
+    background-color:rgb(23, 18, 29);
+    color:snow;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 0.5%;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#title {
+    font-size: 25px;
+    padding-top: 10px;
+    
+}
+
+#subtitle {
+    font-size: 18px;
+    
+}
+
+#img-div {
+    background-color: white;
+    margin-left: 8px;
+    margin-right: 8px;
+    padding-top: 20px;
+    
+}
+
+#img-caption {
+    color:rgb(23, 18, 29);
+    padding-bottom: 2px;
+}
+
+#tribute-info  {
+    font-size: 17px;
+    padding-top: 45px;
+}
+
+
+#chronology {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+
+
+}
+
+a:visited {
+color:rgb(6, 243, 243)
+}
+
+li {
+    padding: 10px;
+}
+
+blockquote {
+    padding: 20px;
+}
+
+#tribute-link {
+    font-size: 14px;
+    padding: 20px;
+    
+}
